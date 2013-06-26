@@ -1,6 +1,12 @@
 jquery-armyKnife
 ================
 
+ArmyKnife is a super easy, super flexable jquery rotation plugin.  It can be attached to photo albums, sliders, galleries, tabs, forms and much more.
+
+Versions
+--------
+1.7 - 2013-06-25
+
 Installation
 ------------
 
