@@ -566,7 +566,7 @@
 										if(data.nav) {
 											data.nav
 												.find("." + data.anic)
-												.removeClass(data.activeClass);
+												.removeClass(data.anic);
 											data.ni[data.ts].addClass(data.anic);
 										};
 										data.cs = data.ts;
