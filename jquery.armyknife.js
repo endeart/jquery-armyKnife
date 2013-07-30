@@ -1,11 +1,11 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //			PLUGIN:		ARMY KNIFE
-//			VERSION:	1.7
+//			VERSION:	1.7.1
 //			AUTHOR:		JOE MOCERINO, ROMAN D. PACHECO
 //			NOTES:
 //				2013.06.25	:	1.7		-	rewrote legacy jquery functions (primarily isresolved) so plugin can work with 1.8+
-
+//				2013.07.30 	:	1.7.1 	-	fixed bug: remove active class from generated nav
 //			SETTINGS:
 //
 //				// DEFAULT SETTINGS

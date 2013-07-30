@@ -5,6 +5,7 @@ ArmyKnife is a super easy, super flexable jquery rotation plugin.  It can be att
 
 Versions
 --------
+1.7.1 - 2013-07-30
 1.7 - 2013-06-25
 
 Installation
